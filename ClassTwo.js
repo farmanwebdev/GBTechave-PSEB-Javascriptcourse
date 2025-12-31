@@ -27,7 +27,7 @@ else {
 // }
 
 
-// let score = 75;
+// let score = 100;
 
 // if (score >= 90) {
 //   console.log("Grade: A");
@@ -43,8 +43,9 @@ else {
 // let age = 20;
 // let hasID = true;
 
-// if (age >= 18 && hasID) {
+// if (age >= 20 && hasID) {
 //   console.log("Entry allowed");
 // } else {
 //   console.log("Entry denied");
+
 // }
