@@ -58,9 +58,6 @@ else {
 
 // JavaScript Logical Operators – Complete Lecture
 
-
-//  Credit to the right full owner this code isn't written by me  (Ali Basit)
-
 // 1. Logical AND (&&)
 
 // Returns true if BOTH conditions are true
@@ -195,6 +192,7 @@ console.log(Boolean(null));     // false
 console.log(Boolean(undefined));// false
 console.log(Boolean([]));       // true
 console.log(Boolean({}));       // true
+
 
 
 
